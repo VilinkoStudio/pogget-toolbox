@@ -382,7 +382,6 @@ onUnmounted(() => {
 .webview-iframe {
   width: 100%;
   height: 100%;
-  max-width: 1200px;
   border: none;
   display: block;
   transition: none;
@@ -434,10 +433,6 @@ onUnmounted(() => {
 }
 
 @media (max-width: 768px) {
-  .webview-iframe {
-    max-width: 100%;
-  }
-  
   .jump-message {
     padding: 20px 30px;
     max-width: 95%;
