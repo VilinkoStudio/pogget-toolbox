@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "常用工具",
+      "tools": [
+        {
+          "id": "001",
+          "name": " Vilinko官网",
+          "url": "https://www.vilinko.com"
+        },
+        {
+          "id": "example",
+          "name": "示例网站",
+          "url": "https://example.com"
+        }
+      ]
+    },
+    {
+      "name": "开发工具",
+      "tools": [
+        {
+          "id": "dsavih21ic",
+          "name": "WebADB调试",
+          "url": "https://vilinkodesign.github.io/qing-webadb/"
+        },
+        {
+          "id": "csoaicoaoi",
+          "name": "图片压缩",
+          "url": "https://vilinkodesign.github.io/imgcompress/"
+        }
+      ]
+    },
+    {
+      "name": "娱乐工具",
+      "tools": [
+        {
+          "id": "oqci21q9ce",
+          "name": "白板",
+          "url": "https://vilinkodesign.github.io/fishboard/"
+        }
+      ]
+    },
+    {
+      "name": "导航页面",
+      "tools": [
+        {
+          "id": "vilinkodesigndebugpages",
+          "name": "链接导航",
+          "url": "https://vilinkodesign.github.io/links/goto/weblist/"
+        }
+      ]
+    }
+  ]
+}
